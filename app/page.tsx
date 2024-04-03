@@ -51,7 +51,9 @@ export default function Home() {
 
       {/* Grid */}
       <Grid />
-      <p className="text-sm text-center text-gray-600">(It's not a gif!)</p>
+      <p className="text-sm text-center text-gray-600">
+        (It&apos;s not a gif!)
+      </p>
 
       {/* Text */}
       <div className="space-y-8 text-justify mt-8">
@@ -62,16 +64,16 @@ export default function Home() {
             <a className="underline" href="https://github.com/velut">
               Edoardo Scibona
             </a>{" "}
-            and I'm a 31 y/o software developer from Milan, Italy (UTC+1).
+            and I&apos;m a 31 y/o software developer from Milan, Italy (UTC+1).
           </p>
           <p>
-            I'm interested in developing software that increases developer
+            I&apos;m interested in developing software that increases developer
             productivity and improves developer experience, focusing on the
             JavaScript/TypeScript ecosystem.
           </p>
           <p>
-            My main development language is currently TypeScript and I'm also
-            comfortable with libraries/frameworks like React/Next.js and
+            My main development language is currently TypeScript and I&apos;m
+            also comfortable with libraries/frameworks like React/Next.js and
             Svelte/SvelteKit. And I greatly enjoy using Tailwind CSS.
           </p>
         </div>
@@ -114,12 +116,12 @@ export default function Home() {
             number of package authors and build tools.
           </p>
           <p>
-            For the API extractor, I've also implemented an extensive test suite
-            to ensure its correctness, completeness and adaptability to
+            For the API extractor, I&apos;ve also implemented an extensive test
+            suite to ensure its correctness, completeness and adaptability to
             TypeScript language changes.
           </p>
           <p>
-            I'm also the author of{" "}
+            I&apos;m also the author of{" "}
             <a
               className="underline"
               href="https://www.npmjs.com/package/query-registry"
@@ -127,7 +129,7 @@ export default function Home() {
               query-registry
             </a>
             , an API client for the npm registry written in TypeScript, for
-            which I've published an{" "}
+            which I&apos;ve published an{" "}
             <a
               className="underline"
               href="https://www.edoardoscibona.com/exploring-the-npm-registry-api"
@@ -148,7 +150,7 @@ export default function Home() {
             .
           </p>
           <p>
-            Recently, I've also contributed{" "}
+            Recently, I&apos;ve also contributed{" "}
             <a href="https://daisyui.com/?lang=it" className="underline">
               the Italian translation
             </a>{" "}
@@ -160,7 +162,7 @@ export default function Home() {
           <p>
             Since discovering Tailwind a few years ago, it has become my go-to
             solution for styling all my projects (and even this whole page) and
-            I've come to appreciate how powerful it is and how great its
+            I&apos;ve come to appreciate how powerful it is and how great its
             developer experience is.
           </p>
           <p>
@@ -172,13 +174,13 @@ export default function Home() {
           <p>
             Of the listed upcoming projects, the backwards compatibility layer,
             the CSS bundler for Next.js and the IDE integrations sound really
-            interesting to me but I'm also open to explore other areas such as
-            accessibility and performance.
+            interesting to me but I&apos;m also open to explore other areas such
+            as accessibility and performance.
           </p>
           <p>
-            I would also like to use Rust and learn more about it. I've already
-            read "The Book" but I still haven't had the opportunity to develop a
-            project in Rust.
+            I would also like to use Rust and learn more about it. I&apos;ve
+            already read &quot;The Book&quot; but I still haven&apos;t had the
+            opportunity to develop a project in Rust.
           </p>
           <p>
             In conclusion, I hope that this quick introduction sparked enough
